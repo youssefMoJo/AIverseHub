@@ -1,0 +1,1 @@
+Handles the logic for different entities in your application (e.g., AIs, users). Separating concerns makes the code more modular.

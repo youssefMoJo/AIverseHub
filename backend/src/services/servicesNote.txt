@@ -1,0 +1,1 @@
+Business logic that encapsulates complex tasks related to entities (e.g., AI generation, user authentication).

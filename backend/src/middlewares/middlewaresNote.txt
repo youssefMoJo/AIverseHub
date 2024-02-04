@@ -1,0 +1,1 @@
+Custom middleware functions, such as authentication or error handling, that can be applied to routes.

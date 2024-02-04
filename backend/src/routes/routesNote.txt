@@ -1,0 +1,1 @@
+Defines the routes for different API endpoints. Routes are responsible for handling HTTP requests and calling the appropriate controller methods.

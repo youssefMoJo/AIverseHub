@@ -1,0 +1,1 @@
+Data models that define the structure of your database collections. Each model corresponds to an entity (e.g., AI, User).
